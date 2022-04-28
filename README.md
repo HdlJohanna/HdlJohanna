@@ -23,6 +23,8 @@ I am a Software Developer, working on a professional Level with [Python](https:/
   * [UnFS File Exchange CLI](https://github.com/HdlJohanna/unfs)  
   * [GitHub-Discord-Linker](https://github.com/HdlJohanna/githubbot)  
   * [NaCl](https://github.com/HdlJohanna/naclpy)  
+  * [FlareWorks Framework](https://github.com/HdlJohanna/flareworks)  
+  
 
 **Contact me**  
 Feel free to send a Mail to HdlJohanna@gmail.com or [On Discord](https://discord.com/users/904435296643457046) and if the Link doesn't work, send a Request to  
